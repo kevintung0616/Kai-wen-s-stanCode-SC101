@@ -1,7 +1,7 @@
 """
 File: boggle.py
 Name: Kai-wen Tung
-(該題與熊倬漢討論)
+
 ----------------------------------------
 TODO: This program simulate Boggle
 First an user input 4*4 alphabet. Then, the program recursively finds all words input by an user in Boggle matching
